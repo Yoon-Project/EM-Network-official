@@ -1,4 +1,3 @@
--------------
 EM-Network
 =============
 This is the official implementation for the paper:
